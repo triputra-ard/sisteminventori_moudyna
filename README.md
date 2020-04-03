@@ -1,4 +1,4 @@
-# PROYEK AKHIR : SISTEM PAKAR KERUSAKAN SMARTPHONE BACKWARD CHAINING untuk Meinada Gadis D.P .
+# PROYEK AKHIR : SISTEM INVENTORI TOKO RIZKY HANI untuk Moudyna Zulia R. .
 
 - Desktop view       [x]
 - Mobile View        [x]
